@@ -16,7 +16,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DATABASE_NAME": "StudyGroups",
-        "CONNECTION_STRING": "mongodb://app-memory-cards:ixjOhQOzbD8ecRjj3lVYeMwwyZHiT9NuLOYxgJOS15zPhfzoLUzkeMa6I3HW9SZWyXZfU4UMAbiKvWQUBB4UyQ==@app-memory-cards.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@app-memory-cards@"
+        "CONNECTION_STRING": ""
       }
     },
     "StudyGroups.WebApi": {
@@ -28,7 +28,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DATABASE_NAME": "StudyGroups",
-        "CONNECTION_STRING": "mongodb://app-memory-cards:ixjOhQOzbD8ecRjj3lVYeMwwyZHiT9NuLOYxgJOS15zPhfzoLUzkeMa6I3HW9SZWyXZfU4UMAbiKvWQUBB4UyQ==@app-memory-cards.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@app-memory-cards@"
+        "CONNECTION_STRING": ""
       }
     }
   }
